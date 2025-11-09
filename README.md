@@ -35,3 +35,13 @@ In the Bang Rak district, there are more listings categorized as “Private room
 3. Focus marketing strategies on the “Entire home/apt” room type, as it is both the most common and the most popular type among users.
 4. Introduce a point reward program for users who leave reviews on listings. This can help increase the number of reviews and improve listing visibility.
 5. Collaborate with the Thai government to take advantage of tourism subsidy programs introduced after the pandemic.
+------------------------------
+I've also used tableau to make the visualizations. This is the link to the [Tableau Dashboard](https://public.tableau.com/views/Capstone2AirbnbBangkok_17478326895840/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+If you find any mistakes or have any suggestions, please reach out to me, any feedback or suggestions are very welcome.
+
+- My Email - yudhitp@gmail.com
+
+- My LinkedIn profile - [Profile](https://www.linkedin.com/in/yudhityaagung/)
+
+### Thank you
